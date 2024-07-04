@@ -9,4 +9,5 @@ Dataset used for this project show countries and their annual CO2 emissions in *
 
 ![Global CO2 Emissions (metric tons per capita)](https://github.com/Man-ella/Analyzing-Forecast-Global-CO2-Emissions/assets/86675301/8ba43b6c-7d4a-41dc-9d4c-12fa0c87595b)
 
+https://drive.google.com/file/d/1pnb8BDgvlMLxgSxKlmFzX6gkxji4K1uM/view?usp=sharing
 
