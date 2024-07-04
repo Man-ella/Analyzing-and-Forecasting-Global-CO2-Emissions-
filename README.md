@@ -1,5 +1,5 @@
 # Analyzing-and-Forecasting-Global-CO2-Emissions
-By: Haley Mitchell, Manuella Kwawu, Samantha Silva, Amy Zhou, Zixu Li
+By: Manuella Kwawu, Haley Mitchell, Samantha Silva, Amy Zhou, Zixu Li
 
 This project aims to analyze and forecast global CO2 emissions. 
 It provides a brief insight into the evolution of CO2 emissions over nearly 5 decades, from 1960 to 2018. 
